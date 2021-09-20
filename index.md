@@ -1,4 +1,4 @@
-# Brahmi Kitchen Garden Pune
+# Brahmi Kitchen Garden Pune, India
 
 Brahmi ji is one gentle down to earth lady, with a mission to make world a better place through her unnoticed humble actions. She has dedicated her life to plants and farming activities with her family. To inspire future generations, she has been active in innovative ways in education and memorization techniques for children. She has divine sense of cooking and is gifted in that area! She takes pride in her flowers and loves to mother her cats. 
 
@@ -32,5 +32,4 @@ Based at Pune, India and her [community farm Jeevan Aranya](https://nehalsin.git
 
 ![IMG-20210619-WA0035](IMG-20210619-WA0035.jpg)
 
-
-**IMAGES SOURCE: BRAHMI JI**
+Image Source: Brahmi ji
